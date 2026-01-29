@@ -1,7 +1,9 @@
 # Project Description
 
 **Project Name:** <Insert Here>
+
 **Principle Engineer:** <Insert Here>
+
 **Reviewer Name:** <Insert Here>
 
 # Project History
@@ -20,7 +22,9 @@
 # Quick Merge Request
 
 **Request Type:** <Insert Here>
+
 **Engineer Requested:** <Insert Here>
+
 **Engineer Reviewed:** <Insert Here>
 
 > This will be applicable for:
