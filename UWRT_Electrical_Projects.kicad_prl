@@ -54,9 +54,9 @@
     "zone_display_mode": 0
   },
   "git": {
-    "repo_type": "",
-    "repo_username": "",
-    "ssh_key": ""
+    "repo_type": "https",
+    "repo_username": "billylin609",
+    "ssh_key": "C:\\Users\\linyu\\.ssh\\id_ed25519"
   },
   "meta": {
     "filename": "UWRT_Electrical_Projects.kicad_prl",
