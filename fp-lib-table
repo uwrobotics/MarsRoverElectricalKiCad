@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MarsRoverFootprintLibrary")(type "KiCad")(uri "${KIPRJMOD}/Library/MarsRoverFootprintLibrary.pretty")(options "")(descr ""))
+)
