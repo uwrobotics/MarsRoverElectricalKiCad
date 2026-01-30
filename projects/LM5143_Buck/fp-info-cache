@@ -1,4 +1,4 @@
-27211370708200648
+27218450488434713
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107828,6 +107828,20 @@ Varistor VF
 2
 2
 footprints
+ASR2512
+
+
+0
+2
+2
+footprints
+D_MicroSMF
+Diode MicroSMF (DO-219AC)
+
+0
+2
+2
+footprints
 ER26A
 
 
@@ -107855,6 +107869,20 @@ PCSR2512_Alt
 0
 3
 2
+footprints
+PCSR2512_Alt_2
+
+
+0
+2
+2
+footprints
+PG‑TSON‑6
+
+
+0
+6
+6
 footprints
 SLW-1478144-5A-S-D
 
