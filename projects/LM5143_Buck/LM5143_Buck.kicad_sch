@@ -9062,7 +9062,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0eae6138-8387-454c-9915-f2009343c7c4")
-		(property "Reference" "SW2"
+		(property "Reference" "SW1"
 			(at 119.38 152.4 0)
 			(effects
 				(font
@@ -9123,7 +9123,7 @@
 		(instances
 			(project ""
 				(path "/80c4af3d-2f3c-4656-872e-20096fd9d2a6"
-					(reference "SW2")
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -12992,7 +12992,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "66e58f35-17c9-45d2-be3d-d7d963620b49")
-		(property "Reference" "SW1"
+		(property "Reference" "SW2"
 			(at 96.52 142.24 0)
 			(effects
 				(font
@@ -13053,7 +13053,7 @@
 		(instances
 			(project "LM5143_Buck"
 				(path "/80c4af3d-2f3c-4656-872e-20096fd9d2a6"
-					(reference "SW1")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
