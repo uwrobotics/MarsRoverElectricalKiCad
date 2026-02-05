@@ -8424,7 +8424,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C469659.html"
 			(at 224.79 143.51 0)
 			(effects
 				(font
@@ -8494,7 +8494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C138687.html"
 			(at 24.13 53.34 0)
 			(effects
 				(font
@@ -8639,7 +8639,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/infineon-technologies/IGC025S08S1XTMA1/25902269"
 			(at 218.44 86.36 0)
 			(effects
 				(font
@@ -8812,7 +8812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C440833.html"
 			(at 30.48 53.34 0)
 			(effects
 				(font
@@ -8958,7 +8958,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C146335.html"
 			(at 85.09 73.66 0)
 			(effects
 				(font
@@ -9035,7 +9035,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices/SLW-1478144-5A-S-D/24399221"
 			(at 119.38 175.26 0)
 			(effects
 				(font
@@ -9245,7 +9245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C146335.html"
 			(at 85.09 91.44 0)
 			(effects
 				(font
@@ -9388,7 +9388,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C137725.html"
 			(at 104.14 68.58 0)
 			(effects
 				(font
@@ -9457,7 +9457,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/infineon-technologies/IGC025S08S1XTMA1/25902269"
 			(at 218.44 68.58 0)
 			(effects
 				(font
@@ -9697,7 +9697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/panjit-international-inc/MBR15H120PC-AU-R2-007A1/21187249"
 			(at 226.06 90.17 0)
 			(effects
 				(font
@@ -9909,7 +9909,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C863782.html"
 			(at 97.79 172.72 0)
 			(effects
 				(font
@@ -9979,7 +9979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/vishay-general-semiconductor-diodes-division/PLZ5V1C-G3-H/7594405"
 			(at 97.79 73.66 0)
 			(effects
 				(font
@@ -10056,7 +10056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C6075476.html"
 			(at 255.27 78.74 0)
 			(effects
 				(font
@@ -10125,7 +10125,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/vishay-general-semiconductor-diodes-division/PLZ5V1C-G3-H/7594405"
 			(at 181.61 73.66 0)
 			(effects
 				(font
@@ -10204,7 +10204,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C112307.html"
 			(at 165.1 55.88 0)
 			(effects
 				(font
@@ -10274,7 +10274,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/texas-instruments/LM5143RHAR/16341524"
 			(at 139.7 68.58 0)
 			(effects
 				(font
@@ -10461,7 +10461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C440833.html"
 			(at 248.92 53.34 0)
 			(effects
 				(font
@@ -10605,7 +10605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL32B475KCJZ4NE/27519552"
 			(at 119.38 27.94 0)
 			(effects
 				(font
@@ -10817,7 +10817,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C469659.html"
 			(at 68.58 73.66 0)
 			(effects
 				(font
@@ -10885,7 +10885,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tlv702.pdf"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C3743587.html"
 			(at 240.03 140.97 0)
 			(effects
 				(font
@@ -10964,7 +10964,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/jst-sales-america-inc/SM04B-GHS-TB/807788"
 			(at 144.78 189.23 0)
 			(effects
 				(font
@@ -11040,7 +11040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/infineon-technologies/IGC025S08S1XTMA1/25902269"
 			(at 60.96 68.58 0)
 			(effects
 				(font
@@ -11148,7 +11148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C29936.html"
 			(at 52.07 182.88 0)
 			(effects
 				(font
@@ -11359,7 +11359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/panjit-international-inc/MBR15H120PC-AU-R2-007A1/21187249"
 			(at 53.34 90.17 0)
 			(effects
 				(font
@@ -11441,7 +11441,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C1623.html"
 			(at 142.24 133.35 0)
 			(effects
 				(font
@@ -11719,7 +11719,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/chemi-con/EKYC101ELL331MK25S/26120648"
 			(at 160.02 27.94 0)
 			(effects
 				(font
@@ -11798,7 +11798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C5199801.html"
 			(at 138.43 31.75 0)
 			(effects
 				(font
@@ -11862,7 +11862,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C1591.html"
 			(at 82.55 60.96 0)
 			(effects
 				(font
@@ -11939,7 +11939,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C112307.html"
 			(at 114.3 55.88 0)
 			(effects
 				(font
@@ -12136,7 +12136,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/bourns-inc/ER26A3DC-100K/27574578"
 			(at 39.37 78.74 0)
 			(effects
 				(font
@@ -12280,7 +12280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/chemi-con/EKYC101ELL331MK25S/26120648"
 			(at 146.05 27.94 0)
 			(effects
 				(font
@@ -12358,7 +12358,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C19110.html"
 			(at 101.6 48.26 0)
 			(effects
 				(font
@@ -12502,7 +12502,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C48982662.html"
 			(at 35.56 182.88 0)
 			(effects
 				(font
@@ -12569,7 +12569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C112305.html"
 			(at 104.14 93.98 0)
 			(effects
 				(font
@@ -12899,7 +12899,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices/SLW-1478144-5A-S-D/24399221"
 			(at 96.52 165.1 0)
 			(effects
 				(font
@@ -12977,7 +12977,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C48982662.html"
 			(at 20.32 182.88 0)
 			(effects
 				(font
@@ -13109,7 +13109,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C706131.html"
 			(at 110.49 125.73 0)
 			(effects
 				(font
@@ -13243,7 +13243,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C138687.html"
 			(at 255.27 53.34 0)
 			(effects
 				(font
@@ -13322,7 +13322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C146335.html"
 			(at 194.31 73.66 0)
 			(effects
 				(font
@@ -13399,7 +13399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C112305.html"
 			(at 175.26 76.2 0)
 			(effects
 				(font
@@ -13601,7 +13601,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/vishay-general-semiconductor-diodes-division/PLZ5V1C-G3-H/7594405"
 			(at 97.79 91.44 0)
 			(effects
 				(font
@@ -13678,7 +13678,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C5199801.html"
 			(at 27.94 160.02 0)
 			(effects
 				(font
@@ -13744,7 +13744,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C1589.html"
 			(at 160.02 133.35 0)
 			(effects
 				(font
@@ -13823,7 +13823,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/vishay-general-semiconductor-diodes-division/V2PM10L-M3-H/10638928"
 			(at 165.1 48.26 0)
 			(effects
 				(font
@@ -14034,7 +14034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C428722.html"
 			(at 194.31 138.43 0)
 			(effects
 				(font
@@ -14170,7 +14170,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C29936.html"
 			(at 250.19 143.51 0)
 			(effects
 				(font
@@ -14446,7 +14446,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C469659.html"
 			(at 68.58 91.44 0)
 			(effects
 				(font
@@ -14513,7 +14513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/bourns-inc/ER26A3DC-100K/27574578"
 			(at 240.03 78.74 0)
 			(effects
 				(font
@@ -14590,7 +14590,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/vishay-general-semiconductor-diodes-division/V2PM10L-M3-H/10638928"
 			(at 114.3 48.26 0)
 			(effects
 				(font
@@ -14668,7 +14668,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C469659.html"
 			(at 210.82 73.66 0)
 			(effects
 				(font
@@ -14736,7 +14736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C137725.html"
 			(at 175.26 86.36 0)
 			(effects
 				(font
@@ -14806,7 +14806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C29936.html"
 			(at 218.44 143.51 0)
 			(effects
 				(font
@@ -14885,7 +14885,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C428722.html"
 			(at 194.31 149.86 0)
 			(effects
 				(font
@@ -15021,7 +15021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/chemi-con/EKYC101ELL331MK25S/26120648"
 			(at 173.99 27.94 0)
 			(effects
 				(font
@@ -15073,7 +15073,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9900168f-2d7b-4811-a4e4-17c32e3b550e")
-		(property "Reference" "TP7"
+		(property "Reference" "TP5"
 			(at 114.3 188.7219 0)
 			(effects
 				(font
@@ -15124,7 +15124,7 @@
 		(instances
 			(project "LM5143_Buck"
 				(path "/80c4af3d-2f3c-4656-872e-20096fd9d2a6"
-					(reference "TP7")
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -15233,7 +15233,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C863782.html"
 			(at 87.63 172.72 0)
 			(effects
 				(font
@@ -15367,7 +15367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/vishay-general-semiconductor-diodes-division/PLZ5V1C-G3-H/7594405"
 			(at 181.61 91.44 0)
 			(effects
 				(font
@@ -15443,7 +15443,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C6075476.html"
 			(at 24.13 78.74 0)
 			(effects
 				(font
@@ -15511,7 +15511,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C137725.html"
 			(at 175.26 68.58 0)
 			(effects
 				(font
@@ -15581,7 +15581,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C19110.html"
 			(at 177.8 48.26 0)
 			(effects
 				(font
@@ -15790,7 +15790,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL32B475KCJZ4NE/27519552"
 			(at 91.44 27.94 0)
 			(effects
 				(font
@@ -15998,7 +15998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C469659.html"
 			(at 210.82 91.44 0)
 			(effects
 				(font
@@ -16067,7 +16067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C863782.html"
 			(at 39.37 104.14 0)
 			(effects
 				(font
@@ -16202,7 +16202,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/jst-sales-america-inc/SM04B-GHS-TB/807788"
 			(at 144.78 176.53 0)
 			(effects
 				(font
@@ -16409,7 +16409,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C48982662.html"
 			(at 22.86 182.88 0)
 			(effects
 				(font
@@ -16478,7 +16478,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C863782.html"
 			(at 111.76 172.72 0)
 			(effects
 				(font
@@ -16545,7 +16545,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C728638.html"
 			(at 100.33 104.14 0)
 			(effects
 				(font
@@ -16616,7 +16616,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C469659.html"
 			(at 38.1 161.29 0)
 			(effects
 				(font
@@ -16683,7 +16683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C1613.html"
 			(at 102.87 125.73 0)
 			(effects
 				(font
@@ -16760,7 +16760,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/harvatek-corporation/B18W1NG-20C000114U1930/13588743"
 			(at 49.53 104.14 0)
 			(effects
 				(font
@@ -16905,7 +16905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C1591.html"
 			(at 129.54 133.35 0)
 			(effects
 				(font
@@ -16982,7 +16982,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C1591.html"
 			(at 196.85 60.96 0)
 			(effects
 				(font
@@ -17190,7 +17190,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL32B475KCJZ4NE/27519552"
 			(at 133.35 27.94 0)
 			(effects
 				(font
@@ -17398,7 +17398,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C112305.html"
 			(at 175.26 93.98 0)
 			(effects
 				(font
@@ -17468,7 +17468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/chemi-con/EKYC101ELL331MK25S/26120648"
 			(at 187.96 27.94 0)
 			(effects
 				(font
@@ -17675,7 +17675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C137725.html"
 			(at 104.14 86.36 0)
 			(effects
 				(font
@@ -17809,7 +17809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C48982662.html"
 			(at 38.1 182.88 0)
 			(effects
 				(font
@@ -17876,7 +17876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/yageo/RT0603FRE0710RL/1075044"
 			(at 45.72 179.07 0)
 			(effects
 				(font
@@ -17945,7 +17945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C1623.html"
 			(at 147.32 133.35 0)
 			(effects
 				(font
@@ -18023,7 +18023,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina226.pdf"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C49851.html"
 			(at 80.01 181.61 0)
 			(effects
 				(font
@@ -18182,7 +18182,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C146335.html"
 			(at 194.31 91.44 0)
 			(effects
 				(font
@@ -18259,7 +18259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C5199801.html"
 			(at 27.94 144.78 0)
 			(effects
 				(font
@@ -18391,7 +18391,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/infineon-technologies/IGC025S08S1XTMA1/25902269"
 			(at 60.96 86.36 0)
 			(effects
 				(font
@@ -18497,7 +18497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C1591.html"
 			(at 66.04 163.83 0)
 			(effects
 				(font
@@ -18576,7 +18576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C5199801.html"
 			(at 138.43 24.13 0)
 			(effects
 				(font
@@ -18644,7 +18644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C137735.html"
 			(at 38.1 153.67 0)
 			(effects
 				(font
@@ -18778,7 +18778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/yageo/RT0603FRE0710RL/1075044"
 			(at 45.72 186.69 0)
 			(effects
 				(font
@@ -18847,7 +18847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL32B475KCJZ4NE/27519552"
 			(at 105.41 27.94 0)
 			(effects
 				(font
@@ -18923,7 +18923,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C112305.html"
 			(at 104.14 76.2 0)
 			(effects
 				(font
@@ -19056,7 +19056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C472799.html"
 			(at 106.68 130.81 0)
 			(effects
 				(font
