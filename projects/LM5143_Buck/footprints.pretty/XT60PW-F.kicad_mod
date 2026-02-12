@@ -76,13 +76,33 @@
 	)
 	(fp_line
 		(start -6 8.25)
-		(end 6 8.25)
+		(end -5 8.25)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(layer "F.SilkS")
 		(uuid "82dffe64-8fbb-4185-96d5-5187a51cd3ae")
+	)
+	(fp_line
+		(start -2.25 8.25)
+		(end 2.25 8.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cae10b50-4385-4c67-8e6a-639b09a79813")
+	)
+	(fp_line
+		(start 5 8.249999)
+		(end 5.999999 8.249999)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "00f32777-d771-4d22-8cc1-9794ccf06c1b")
 	)
 	(fp_line
 		(start 6.75 -9)
@@ -177,7 +197,7 @@
 	)
 	(pad "1" thru_hole circle
 		(at 3.6 6)
-		(size 4 4)
+		(size 4.5 4.5)
 		(drill 2.9)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -185,7 +205,7 @@
 	)
 	(pad "2" thru_hole circle
 		(at -3.6 6)
-		(size 4 4)
+		(size 4.5 4.5)
 		(drill 2.9)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)

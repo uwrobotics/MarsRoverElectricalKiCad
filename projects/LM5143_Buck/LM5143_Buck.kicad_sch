@@ -12136,7 +12136,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.ca/en/products/detail/bourns-inc/ER26A3DC-100K/27574578"
+		(property "Datasheet" "~"
 			(at 39.37 78.74 0)
 			(effects
 				(font
@@ -14034,7 +14034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C428722.html"
+		(property "Datasheet" "~"
 			(at 194.31 138.43 0)
 			(effects
 				(font
@@ -14513,7 +14513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.ca/en/products/detail/bourns-inc/ER26A3DC-100K/27574578"
+		(property "Datasheet" "~"
 			(at 240.03 78.74 0)
 			(effects
 				(font
@@ -14885,7 +14885,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C428722.html"
+		(property "Datasheet" "~"
 			(at 194.31 149.86 0)
 			(effects
 				(font
