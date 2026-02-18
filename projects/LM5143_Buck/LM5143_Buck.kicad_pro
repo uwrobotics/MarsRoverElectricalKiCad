@@ -558,7 +558,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "LM5143_Buck.emn",
-      "netlist": "",
+      "netlist": "./",
       "plot": "jlc/",
       "pos_files": "",
       "specctra_dsn": "",

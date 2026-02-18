@@ -14025,7 +14025,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints:XT60PW-F"
+		(property "Footprint" "footprints:XT60PW"
 			(at 194.31 138.43 0)
 			(effects
 				(font
@@ -14876,7 +14876,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints:XT60PW-F"
+		(property "Footprint" "footprints:XT60PW"
 			(at 194.31 149.86 0)
 			(effects
 				(font
