@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:Texas_VQFN-40-1EP_6x6mm_P0.5mm_EP3.3x3.3mm_ThermalVias"
 			(at 0 0 0)
 			(effects
 				(font
