@@ -1,4 +1,4 @@
-27223775673061743
+27222020490461158
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107875,27 +107875,13 @@ PCSR2512
 
 0
 4
-2
-footprints
-PCSR2512_Alt
-
-
-0
-3
-2
-footprints
-PCSR2512_Alt_2
-
-
-0
-2
-2
+4
 footprints
 PG‑TSON‑6
 
 
 0
-6
+21
 6
 footprints
 SLW-865144-2A-N-SMT-TR
@@ -107916,8 +107902,15 @@ Texas_VQFN-40-1EP_6x6mm_P0.5mm_EP3.3x3.3mm_ThermalVias
 Texas RHA VQFN, 40 Pin (http://www.ti.com/lit/ds/symlink/dac7750.pdf#page=49), generated with kicad-footprint-generator ipc_noLead_generator.py
 Texas VQFN NoLead
 0
-58
+62
 41
+footprints
+WSON-10-1EP_4x4mm_P0.8mm_EP2.6x3mm_ThermalVias
+WSON, 10 Pin (https://www.ti.com/lit/ml/qfnd434a/qfnd434a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+WSON NoLead Texas_DPR0010A
+0
+25
+11
 footprints
 XT60PW
 
