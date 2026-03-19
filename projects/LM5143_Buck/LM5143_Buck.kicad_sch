@@ -13529,7 +13529,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2"
+		(property "Value" "0"
 			(at 55.88 87.63 90)
 			(effects
 				(font
@@ -13546,7 +13546,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C728638.html"
+		(property "Datasheet" ""
 			(at 55.88 90.17 0)
 			(effects
 				(font
@@ -13596,7 +13596,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2"
+		(property "Value" "0"
 			(at 55.88 69.85 90)
 			(effects
 				(font
@@ -13613,7 +13613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C728638.html"
+		(property "Datasheet" ""
 			(at 55.88 72.39 0)
 			(effects
 				(font
@@ -16181,7 +16181,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2"
+		(property "Value" "0"
 			(at 223.52 69.85 90)
 			(effects
 				(font
@@ -16198,7 +16198,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C728638.html"
+		(property "Datasheet" ""
 			(at 223.52 72.39 0)
 			(effects
 				(font
@@ -21215,7 +21215,7 @@
 				)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "0"
 			(at 223.52 95.25 90)
 			(effects
 				(font
@@ -21232,7 +21232,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C728638.html"
+		(property "Datasheet" ""
 			(at 223.52 92.71 0)
 			(effects
 				(font
@@ -21572,7 +21572,7 @@
 				)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "0"
 			(at 223.52 77.47 90)
 			(effects
 				(font
@@ -21589,7 +21589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C728638.html"
+		(property "Datasheet" ""
 			(at 223.52 74.93 0)
 			(effects
 				(font
@@ -21718,7 +21718,7 @@
 				)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "0"
 			(at 55.88 95.25 90)
 			(effects
 				(font
@@ -21735,7 +21735,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C728638.html"
+		(property "Datasheet" ""
 			(at 55.88 92.71 0)
 			(effects
 				(font
@@ -22810,7 +22810,7 @@
 				)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "0"
 			(at 55.88 77.47 90)
 			(effects
 				(font
@@ -22827,7 +22827,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C728638.html"
+		(property "Datasheet" ""
 			(at 55.88 74.93 0)
 			(effects
 				(font
@@ -24529,7 +24529,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2"
+		(property "Value" "0"
 			(at 223.52 87.63 90)
 			(effects
 				(font
@@ -24546,7 +24546,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C728638.html"
+		(property "Datasheet" ""
 			(at 223.52 90.17 0)
 			(effects
 				(font
