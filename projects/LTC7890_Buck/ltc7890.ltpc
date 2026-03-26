@@ -6,6 +6,9 @@
       <Type>Controller</Type>
       <OutputNum>One</OutputNum>
       <PartName>LTC7890</PartName>
+      <TopFetThermalImpedanceCH1>38</TopFetThermalImpedanceCH1>
+      <BotFetThermalImpedanceCH1>38</BotFetThermalImpedanceCH1>
+      <BotFetThermalImpedanceCH4>38</BotFetThermalImpedanceCH4>
       <IcTa>25</IcTa>
       <LastSavedFilesCultureInfo>en-001</LastSavedFilesCultureInfo>
       <SolutionAreamm2>479.5</SolutionAreamm2>
@@ -78,7 +81,7 @@
       <CobDerated>5.26771428571429E-05</CobDerated>
       <CobVoltageRating>50</CobVoltageRating>
       <VoRipplePkPkMaxTargetPercent>1</VoRipplePkPkMaxTargetPercent>
-      <VoStepMaxTargetPercent>3.73052414389222</VoStepMaxTargetPercent>
+      <VoStepMaxTargetPercent>3.73052414389221</VoStepMaxTargetPercent>
       <TotalVoRippleMaxTargetPercent>4</TotalVoRippleMaxTargetPercent>
       <Coc>4.7E-06</Coc>
       <ESRc>0.0032</ESRc>
@@ -137,6 +140,7 @@
       <DRVCCDesired>5</DRVCCDesired>
       <RDRVSET>73082.7810956836</RDRVSET>
       <HasExtvcc>True</HasExtvcc>
+      <ExtvccVoltage>24</ExtvccVoltage>
       <LoadStepHigh>15</LoadStepHigh>
       <LoadStepSlewRate>1000000</LoadStepSlewRate>
       <TonMin>4E-08</TonMin>
@@ -147,8 +151,8 @@
       <RailNumber>1</RailNumber>
       <BW>19.95</BW>
       <PM>60.67</PM>
-      <DeltaVoLoadStep>331.422694546532</DeltaVoLoadStep>
-      <TotalDeltaVoLoadStepPercent>1.37731244876587</TotalDeltaVoLoadStepPercent>
+      <DeltaVoLoadStep>331.422694546511</DeltaVoLoadStep>
+      <TotalDeltaVoLoadStepPercent>1.37731244876579</TotalDeltaVoLoadStepPercent>
       <FootprintClearanceFactor>1.5</FootprintClearanceFactor>
       <Mode>Buck</Mode>
       <ModeChanged>False</ModeChanged>
@@ -188,6 +192,7 @@
       <WidthControlStage1>1.95</WidthControlStage1>
       <HeightControlStage1>0.638</HeightControlStage1>
       <PackageControlStage1>LGA 3.5 x 1.95</PackageControlStage1>
+      <ThetaJXControlStage1>38</ThetaJXControlStage1>
       <PriceControlStage1>2.45</PriceControlStage1>
       <CostControlStage1>4.9</CostControlStage1>
       <PartPriceControlStage1>2.45</PartPriceControlStage1>
@@ -214,17 +219,18 @@
       <WidthSyncStage1>1.95</WidthSyncStage1>
       <HeightSyncStage1>0.638</HeightSyncStage1>
       <PackageSyncStage1>LGA 3.5 x 1.95</PackageSyncStage1>
+      <ThetaJXSyncStage1>38</ThetaJXSyncStage1>
       <PriceSyncStage1>2.45</PriceSyncStage1>
       <CostSyncStage1>4.9</CostSyncStage1>
       <PartPriceSyncStage1>2.45</PartPriceSyncStage1>
       <NumFetsControlStage2>1</NumFetsControlStage2>
       <NumFetsSyncStage2>1</NumFetsSyncStage2>
-      <Efficiency>0.9916</Efficiency>
+      <Efficiency>0.9914</Efficiency>
       <VoutRipplePercent>0.0001926173</VoutRipplePercent>
-      <LossCurveA2>0.0024174101</LossCurveA2>
-      <LossCurveA1>0.0470823591</LossCurveA1>
-      <LossCurveA0>0.6592211839</LossCurveA0>
-      <LossCurveR2>0.9988904313</LossCurveR2>
+      <LossCurveA2>0.0024229182</LossCurveA2>
+      <LossCurveA1>0.0534856572</LossCurveA1>
+      <LossCurveA0>0.4513357099</LossCurveA0>
+      <LossCurveR2>0.9989934662</LossCurveR2>
       <InputLCFilterEnabled>False</InputLCFilterEnabled>
       <NumCf_in>1</NumCf_in>
       <NumCd_in>1</NumCd_in>
@@ -238,6 +244,8 @@
       <CinCeramicPrice>2.717</CinCeramicPrice>
       <CeramicCapacitorCost>24.684</CeramicCapacitorCost>
       <CinCeramicCost>5.434</CinCeramicCost>
+      <RgUp_ControlStage1>1</RgUp_ControlStage1>
+      <RgUp_SyncStage1>1</RgUp_SyncStage1>
       <PartFamily>Switching Regulator</PartFamily>
     </OutputRailData>
   </OutputRailDatas>
