@@ -1,2 +1,6 @@
 # Backup Folder
 **/*-backups/
+**/.history/
+# LTSpice
+**/*.log
+**/*.raw
