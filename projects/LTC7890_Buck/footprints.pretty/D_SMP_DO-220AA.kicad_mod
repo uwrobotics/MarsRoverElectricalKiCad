@@ -1,0 +1,186 @@
+(footprint "D_SMP_DO-220AA"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "SMP DO-220AA (https://www.vishay.com/docs/89016/esh2pb.pdf)")
+	(tags "SMP DO-220AA")
+	(property "Reference" "REF**"
+		(at 0 -2.2 0)
+		(layer "F.SilkS")
+		(uuid "2521647e-63ca-42f9-95db-a43c95819686")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "D_SMP_DO-220AA"
+		(at 0 2.2 0)
+		(layer "F.Fab")
+		(uuid "7076c58a-51a3-4556-9d74-fc2bef6ff2d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7ab050ce-25d4-4334-b400-bba8f24af0f3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5155e3a1-5e90-4c04-91c2-6c251fe80290")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.29 -1.53)
+		(end -2.29 1.53)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e8a9f991-59b3-417b-91bf-eb96a9191125")
+	)
+	(fp_line
+		(start -2.29 -1.53)
+		(end 1.11 -1.53)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a2424101-f50a-408c-b811-1ee6b9859339")
+	)
+	(fp_line
+		(start -2.29 1.53)
+		(end 1.11 1.53)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0227a19b-e3d8-4aff-9578-68f7af8c3bf5")
+	)
+	(fp_rect
+		(start -2 -1.1)
+		(end 2 1.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "6175e36a-421d-472c-b91a-97a4b7beca67")
+	)
+	(fp_line
+		(start -2 -1.09)
+		(end -2 1.09)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bff82cf1-b13c-4f9d-aca6-5d9c16738821")
+	)
+	(fp_line
+		(start 1.97 0.265)
+		(end 1.97 -0.265)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3a4cf2ca-4c12-41f5-9f85-e7d277ff4383")
+	)
+	(fp_line
+		(start 2 -1.09)
+		(end -2 -1.09)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "23406e97-d229-4f63-88bc-5462b3308c83")
+	)
+	(fp_line
+		(start 2 -1.09)
+		(end 2 1.09)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5d74e02d-9b6c-409f-afd3-f1ce371d64b8")
+	)
+	(fp_line
+		(start 2 1.09)
+		(end -2 1.09)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0b4c1668-6be4-4274-8a63-c4279be3ab2b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "fe966046-e5ca-4bcc-a585-54791e9ea41e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -0.6985 0)
+		(size 2.67 2.54)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.05)
+		(uuid "a90348e6-77c5-46e6-ba64-5b391d382580")
+	)
+	(pad "2" smd roundrect
+		(at 1.6525 0)
+		(size 0.762 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "ab88f1ad-3a80-4ece-96ad-e8910fd29d40")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMP_DO-220AA.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
