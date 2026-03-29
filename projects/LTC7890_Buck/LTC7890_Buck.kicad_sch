@@ -13932,7 +13932,7 @@
 				)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "2.2"
 			(at 149.86 63.5 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13953,7 +13953,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C112305.html"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C112307.html"
 			(at 149.86 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -21457,7 +21457,7 @@
 				)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "2.2"
 			(at 149.86 106.68 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21478,7 +21478,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C112305.html"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C112307.html"
 			(at 149.86 109.22 0)
 			(hide yes)
 			(show_name no)

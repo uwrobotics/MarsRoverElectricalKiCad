@@ -38,7 +38,7 @@
       <PartHeight>0.75</PartHeight>
       <VoutNum>2</VoutNum>
       <PhasesNum>2</PhasesNum>
-      <VinToCalc>45</VinToCalc>
+      <VinToCalc>48</VinToCalc>
       <IoToCalc>60</IoToCalc>
       <MaxVin>51</MaxVin>
       <NomVin>45</NomVin>
@@ -225,7 +225,7 @@
       <PartPriceSyncStage1>2.45</PartPriceSyncStage1>
       <NumFetsControlStage2>1</NumFetsControlStage2>
       <NumFetsSyncStage2>1</NumFetsSyncStage2>
-      <Efficiency>0.9914</Efficiency>
+      <Efficiency>0.9911</Efficiency>
       <VoutRipplePercent>0.0001926173</VoutRipplePercent>
       <LossCurveA2>0.0024229182</LossCurveA2>
       <LossCurveA1>0.0534856572</LossCurveA1>
@@ -244,8 +244,8 @@
       <CinCeramicPrice>2.717</CinCeramicPrice>
       <CeramicCapacitorCost>24.684</CeramicCapacitorCost>
       <CinCeramicCost>5.434</CinCeramicCost>
-      <RgUp_ControlStage1>1</RgUp_ControlStage1>
-      <RgUp_SyncStage1>1</RgUp_SyncStage1>
+      <RgUp_ControlStage1>2</RgUp_ControlStage1>
+      <RgUp_SyncStage1>2</RgUp_SyncStage1>
       <PartFamily>Switching Regulator</PartFamily>
     </OutputRailData>
   </OutputRailDatas>
