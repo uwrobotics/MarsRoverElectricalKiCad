@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "LTC7890 Buck")
-		(date "2026-04-17")
-		(rev "1")
+		(date "2026-04-20")
+		(rev "2")
 	)
 	(lib_symbols
 		(symbol "Analog_ADC:ADC101C021CIMM"
@@ -7187,12 +7187,8 @@
 		(uuid "15b3e126-6161-4b5a-9edd-7e4cb6141a4c")
 	)
 	(no_connect
-		(at 24.13 106.68)
-		(uuid "4bec15ce-5c57-4273-8bb7-9963a6756f08")
-	)
-	(no_connect
-		(at 24.13 87.63)
-		(uuid "9ebc3b1a-a852-4620-8c25-9ed1e8e230a2")
+		(at 24.13 85.09)
+		(uuid "93a9d15a-fdc1-4cb9-9d38-732c929e476a")
 	)
 	(no_connect
 		(at 107.95 185.42)
@@ -7201,6 +7197,10 @@
 	(no_connect
 		(at 123.19 99.06)
 		(uuid "b8363091-e3da-4128-8f52-a3a61347c85d")
+	)
+	(no_connect
+		(at 24.13 104.14)
+		(uuid "be8398ed-b5c8-4ce3-9c24-7929d2d97937")
 	)
 	(no_connect
 		(at 107.95 172.72)
@@ -7349,16 +7349,6 @@
 			(type default)
 		)
 		(uuid "0a49340f-11d2-40f9-aa6f-6a66a24a26cb")
-	)
-	(wire
-		(pts
-			(xy 22.86 109.22) (xy 24.13 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a78a9db-64cf-43cf-adb9-335112622981")
 	)
 	(wire
 		(pts
@@ -9292,16 +9282,6 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 104.14) (xy 24.13 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bd9f872b-a579-4d34-b26b-6f49c761798b")
-	)
-	(wire
-		(pts
 			(xy 200.66 147.32) (xy 200.66 134.62)
 		)
 		(stroke
@@ -9459,16 +9439,6 @@
 			(type default)
 		)
 		(uuid "c57a5174-c147-4eb6-baa2-af19180f6eb0")
-	)
-	(wire
-		(pts
-			(xy 22.86 85.09) (xy 24.13 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c67a714a-44a1-433d-b411-49fd966e3d3a")
 	)
 	(wire
 		(pts
@@ -10179,16 +10149,6 @@
 			(type default)
 		)
 		(uuid "f8567973-71be-4d90-adb5-674994a93337")
-	)
-	(wire
-		(pts
-			(xy 22.86 90.17) (xy 24.13 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f99c8c7d-e3c4-4797-8831-0cb91845d8d7")
 	)
 	(wire
 		(pts
@@ -11419,6 +11379,84 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
+		(at 24.13 106.68 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "14d832d3-fb5f-4203-b0a2-8b38e3987702")
+		(property "Reference" "#PWR069"
+			(at 17.78 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 21.082 106.68 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 24.13 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 24.13 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
+			(at 24.13 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "95f518d5-aaec-4cf5-b413-1ae8ab235c53")
+		)
+		(instances
+			(project "LTC7890_Buck"
+				(path "/80c4af3d-2f3c-4656-872e-20096fd9d2a6"
+					(reference "#PWR069")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDA")
 		(at 44.45 137.16 0)
 		(unit 1)
 		(body_style 1)
@@ -11656,83 +11694,6 @@
 			(project "LTC7890_Buck"
 				(path "/80c4af3d-2f3c-4656-872e-20096fd9d2a6"
 					(reference "R19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 22.86 104.14 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "1bd9f81d-2b7a-4a7f-a838-23b6073885f2")
-		(property "Reference" "#PWR033"
-			(at 22.86 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 22.86 100.076 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 22.86 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 22.86 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 22.86 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9507ea41-b0aa-455f-ad5e-49182ad4eeca")
-		)
-		(instances
-			(project "LTC7890_Buck"
-				(path "/80c4af3d-2f3c-4656-872e-20096fd9d2a6"
-					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -12498,6 +12459,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 24.13 109.22 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2622099c-362a-4a9d-8ea4-518f329aa3ae")
+		(property "Reference" "#PWR070"
+			(at 27.94 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 21.082 109.22 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 24.13 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 24.13 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 24.13 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "03459476-7abe-4077-a4f7-b41bea58453b")
+		)
+		(instances
+			(project "LTC7890_Buck"
+				(path "/80c4af3d-2f3c-4656-872e-20096fd9d2a6"
+					(reference "#PWR070")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Motor:Fan")
 		(at 76.2 68.58 0)
 		(unit 1)
@@ -12911,6 +12950,84 @@
 			(project "LTC7890_Buck"
 				(path "/80c4af3d-2f3c-4656-872e-20096fd9d2a6"
 					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDA")
+		(at 24.13 87.63 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2a18b484-3bb7-43da-a10f-11efcbdf5c59")
+		(property "Reference" "#PWR067"
+			(at 17.78 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 21.082 87.63 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 24.13 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 24.13 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
+			(at 24.13 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "81ca0a4c-4b5d-400e-a51f-e000a63eabd4")
+		)
+		(instances
+			(project "LTC7890_Buck"
+				(path "/80c4af3d-2f3c-4656-872e-20096fd9d2a6"
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -19892,83 +20009,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GNDA")
-		(at 22.86 90.17 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "99e98932-ebf6-4b94-b185-3a39ad75351b")
-		(property "Reference" "#PWR026"
-			(at 22.86 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GNDA"
-			(at 22.86 93.98 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 22.86 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 22.86 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 22.86 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a6670973-e81f-4db9-a5d4-849a0e26580e")
-		)
-		(instances
-			(project "LTC7890_Buck"
-				(path "/80c4af3d-2f3c-4656-872e-20096fd9d2a6"
-					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 55.88 171.45 0)
 		(unit 1)
@@ -20887,6 +20927,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 24.13 90.17 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "aea9d41a-566b-4db4-b9b1-a7508f991db1")
+		(property "Reference" "#PWR068"
+			(at 27.94 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 21.082 90.17 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 24.13 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 24.13 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 24.13 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b3a33ca1-4e2e-4805-bc5b-27ee215ffb03")
+		)
+		(instances
+			(project "LTC7890_Buck"
+				(path "/80c4af3d-2f3c-4656-872e-20096fd9d2a6"
+					(reference "#PWR068")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDA")
 		(at 36.83 73.66 0)
 		(unit 1)
@@ -21328,83 +21446,6 @@
 			(project "LTC7890_Buck"
 				(path "/80c4af3d-2f3c-4656-872e-20096fd9d2a6"
 					(reference "C29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 22.86 85.09 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b2df971e-e4c3-4ffa-b39e-d75e2d31f4b1")
-		(property "Reference" "#PWR024"
-			(at 22.86 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 22.86 81.026 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 22.86 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 22.86 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 22.86 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f558444b-0b3d-45f4-bfdd-f6af90d4d5e4")
-		)
-		(instances
-			(project "LTC7890_Buck"
-				(path "/80c4af3d-2f3c-4656-872e-20096fd9d2a6"
-					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -25765,83 +25806,6 @@
 			(project "LTC7890_Buck"
 				(path "/80c4af3d-2f3c-4656-872e-20096fd9d2a6"
 					(reference "C18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GNDA")
-		(at 22.86 109.22 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ed14f002-955a-4df5-82ee-60c2316ab885")
-		(property "Reference" "#PWR035"
-			(at 22.86 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GNDA"
-			(at 22.86 113.03 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 22.86 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 22.86 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 22.86 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "eb6c6bfc-8355-4ccf-867e-cb241aa07028")
-		)
-		(instances
-			(project "LTC7890_Buck"
-				(path "/80c4af3d-2f3c-4656-872e-20096fd9d2a6"
-					(reference "#PWR035")
 					(unit 1)
 				)
 			)
